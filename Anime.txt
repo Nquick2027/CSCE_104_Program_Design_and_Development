@@ -1,0 +1,1 @@
+{'Rimuru Tempest': 'That Time I Got Reincarnated As A Slime', 'Ichigo Kurosaki': 'Bleach', 'Naruto Uzamaki': 'Naruto', 'Monkey D. Luffy': 'One Piece', 'Jotaro Kujo': "Jojo's Bizarre Adventures"}
